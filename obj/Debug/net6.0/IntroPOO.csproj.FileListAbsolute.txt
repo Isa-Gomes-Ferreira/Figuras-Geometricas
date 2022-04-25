@@ -1,0 +1,15 @@
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/bin/Debug/net6.0/IntroPOO
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/bin/Debug/net6.0/IntroPOO.deps.json
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/bin/Debug/net6.0/IntroPOO.runtimeconfig.json
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/bin/Debug/net6.0/IntroPOO.dll
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/bin/Debug/net6.0/IntroPOO.pdb
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/obj/Debug/net6.0/IntroPOO.csproj.AssemblyReference.cache
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/obj/Debug/net6.0/IntroPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/obj/Debug/net6.0/IntroPOO.AssemblyInfoInputs.cache
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/obj/Debug/net6.0/IntroPOO.AssemblyInfo.cs
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/obj/Debug/net6.0/IntroPOO.csproj.CoreCompileInputs.cache
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/obj/Debug/net6.0/IntroPOO.dll
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/obj/Debug/net6.0/refint/IntroPOO.dll
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/obj/Debug/net6.0/IntroPOO.pdb
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/obj/Debug/net6.0/IntroPOO.genruntimeconfig.cache
+/home/henriquebaesa/Desktop/SP3045048/IntroPOO/obj/Debug/net6.0/ref/IntroPOO.dll
